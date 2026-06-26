@@ -1,0 +1,11 @@
+numpy>=1.23.4
+torch>=1.13.0
+torch-geometric>=2.3.0
+easydict>=1.10
+matplotlib>=3.6.2
+seaborn>=0.12
+networkx>=3.0
+scipy>=1.10
+tensorboard>=2.11.0
+wandb>=0.15
+gurobipy>=10.0

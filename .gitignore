@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# experiment outputs
+runs/
+wandb/
+logs/
+target_nets/
+*.pt
+*.pth
+
+# misc
+.DS_Store
+.venv/
